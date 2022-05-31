@@ -1,0 +1,16 @@
+{
+  "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in pieckh/Fuchs.Kreuterbuch project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/manifest.json",
+    "label" : {
+      "@value" : "Fuchs.Kreutterbuch",
+      "@language" : "en"
+    }
+  } ]
+}
