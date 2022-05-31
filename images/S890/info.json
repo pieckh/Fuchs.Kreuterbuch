@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 80,
+    "height" : 125
+  }, {
+    "width" : 160,
+    "height" : 250
+  }, {
+    "width" : 319,
+    "height" : 499
+  }, {
+    "width" : 638,
+    "height" : 997
+  }, {
+    "width" : 1276,
+    "height" : 1994
+  }, {
+    "width" : 2551,
+    "height" : 3988
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2551,
+  "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S890",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3988
+}
