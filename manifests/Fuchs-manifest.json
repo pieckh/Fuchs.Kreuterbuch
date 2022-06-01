@@ -1,0 +1,216 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/Fuchs-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Leonhart Fuchs: New Kreutterbuch",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Buch des Monats Juni 2022 Stadtbibliothek Ulm: Leonhart Fuchs, New Kreutterbuch, 1543",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://841309c9-bc9f-4ca6-a51f-9cb385244514",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f9959b78-080a-43f2-988c-a7f0b17e1524",
+      "@type" : "sc:Canvas",
+      "label" : "01",
+      "height" : 4080,
+      "width" : 2840,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a4eb86f9-2374-46a6-85ae-09f778aad027",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4080,
+          "width" : 2840
+        },
+        "on" : "http://f9959b78-080a-43f2-988c-a7f0b17e1524"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://83371982-495e-4a32-ab64-0539055470b0",
+      "@type" : "sc:Canvas",
+      "label" : "02",
+      "height" : 3994,
+      "width" : 2407,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f2e18b84-95b6-4d0f-88a9-c11e8e1e75c6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3994,
+          "width" : 2407
+        },
+        "on" : "http://83371982-495e-4a32-ab64-0539055470b0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://da73bbaa-0732-4e1c-b05c-0122b6d17f33",
+      "@type" : "sc:Canvas",
+      "label" : "03",
+      "height" : "1024",
+      "width" : "1024",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://51f3945c-63c5-4172-8955-3daba88f6b25",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S889/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S889",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4267,
+          "width" : 2546
+        },
+        "on" : "http://da73bbaa-0732-4e1c-b05c-0122b6d17f33"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://354cca4e-9f90-4826-8b90-8f9a093124cc",
+      "@type" : "sc:Canvas",
+      "label" : "04",
+      "height" : 1506,
+      "width" : 1000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://49c245b4-a740-4ad3-814a-90812f6d5a1e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S001_BesitzvermerkFuchs/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S001_BesitzvermerkFuchs",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1506,
+          "width" : 1000
+        },
+        "on" : "http://354cca4e-9f90-4826-8b90-8f9a093124cc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c4b9b957-7f7f-479e-a846-b1ca15c54c82",
+      "@type" : "sc:Canvas",
+      "label" : "05",
+      "height" : 5960,
+      "width" : 3758,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c2081bdb-5013-4dfd-acf3-a0fa5cd273bc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00017437_00080/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00017437_00080",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "gif", "jpg", "png", "tif", "webp" ],
+              "supports" : [ "profileLinkHeader", "canonicalLinkHeader", "regionSquare", "rotationBy90s", "mirroring", "sizeAboveFull" ]
+            } ]
+          },
+          "height" : 5960,
+          "width" : 3758
+        },
+        "on" : "http://c4b9b957-7f7f-479e-a846-b1ca15c54c82"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a0f5a72a-bb2c-465e-987e-a6cafe3cbcba",
+      "@type" : "sc:Canvas",
+      "label" : "06",
+      "height" : "1024",
+      "width" : "1024",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://32b57b12-39e3-4e58-9b50-359bae357f8c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S082/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S082",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3990,
+          "width" : 2670
+        },
+        "on" : "http://a0f5a72a-bb2c-465e-987e-a6cafe3cbcba"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ec5f7a70-d493-4165-9cf4-f679d2a051d7",
+      "@type" : "sc:Canvas",
+      "label" : "07",
+      "height" : 4080,
+      "width" : 2840,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fe6ee29d-6df6-49b3-aa71-31d1d7b0e11c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4080,
+          "width" : 2840
+        },
+        "on" : "http://ec5f7a70-d493-4165-9cf4-f679d2a051d7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://470e4c19-ad14-4cb9-8e0e-a68ab8f4327c",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 0,
+      "width" : 0,
+      "images" : [ ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
