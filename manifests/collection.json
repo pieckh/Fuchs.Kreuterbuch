@@ -20,5 +20,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/Fuchs_manifest.json",
     "label" : "Leonhart Fuchs: New Kreutterbuch"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/Fuchs-manifest.json",
+    "label" : "Leonhart Fuchs: New Kreutterbuch"
   } ]
 }
