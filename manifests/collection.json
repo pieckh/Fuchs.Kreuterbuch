@@ -7,13 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/manifest.json",
-    "label" : {
-      "@value" : "Fuchs.Kreutterbuch",
-      "@language" : "en"
-    }
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/S411_manifest.json",
     "label" : "S411"
   }, {
