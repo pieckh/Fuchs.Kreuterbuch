@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 730,
+    "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/bdM_Juni22/canvas/",
+    "label" : {
+      "none" : [ "bdM_Juni22" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/bdM_Juni22/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/bdM_Juni22/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 23,
+              "height" : 31
+            }, {
+              "width" : 46,
+              "height" : 62
+            }, {
+              "width" : 92,
+              "height" : 123
+            }, {
+              "width" : 183,
+              "height" : 246
+            }, {
+              "width" : 365,
+              "height" : 491
+            }, {
+              "width" : 730,
+              "height" : 982
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 730,
+            "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/bdM_Juni22",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 982
+          } ],
+          "format" : "image/jpeg",
+          "width" : 730,
+          "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/bdM_Juni22/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 982
+        },
+        "target" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/bdM_Juni22/canvas/"
+      } ]
+    } ],
+    "height" : 982
+  }, {
     "width" : 2670,
     "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S082/canvas/",
     "label" : {
