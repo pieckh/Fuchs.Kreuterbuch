@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2407,
+    "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/canvas/",
+    "label" : {
+      "none" : [ "S411" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 76,
+              "height" : 125
+            }, {
+              "width" : 151,
+              "height" : 250
+            }, {
+              "width" : 301,
+              "height" : 500
+            }, {
+              "width" : 602,
+              "height" : 999
+            }, {
+              "width" : 1204,
+              "height" : 1997
+            }, {
+              "width" : 2407,
+              "height" : 3994
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2407,
+            "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3994
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2407,
+          "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3994
+        },
+        "target" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/canvas/"
+      } ]
+    } ],
+    "height" : 3994
+  }, {
     "width" : 2546,
     "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S889/canvas/",
     "label" : {
