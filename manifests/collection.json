@@ -16,5 +16,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/S411_manifest.json",
     "label" : "S411"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/Fuchs_manifest.json",
+    "label" : "Leonhart Fuchs: New Kreutterbuch"
   } ]
 }
