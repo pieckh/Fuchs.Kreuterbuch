@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 23,
+    "height" : 31
+  }, {
+    "width" : 46,
+    "height" : 62
+  }, {
+    "width" : 92,
+    "height" : 123
+  }, {
+    "width" : 183,
+    "height" : 246
+  }, {
+    "width" : 365,
+    "height" : 491
+  }, {
+    "width" : 730,
+    "height" : 982
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 730,
+  "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/Plakat",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 982
+}
