@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 84,
+    "height" : 125
+  }, {
+    "width" : 167,
+    "height" : 250
+  }, {
+    "width" : 334,
+    "height" : 499
+  }, {
+    "width" : 668,
+    "height" : 998
+  }, {
+    "width" : 1335,
+    "height" : 1995
+  }, {
+    "width" : 2670,
+    "height" : 3990
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2670,
+  "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S082",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3990
+}
