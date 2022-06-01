@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 81,
+    "height" : 125
+  }, {
+    "width" : 161,
+    "height" : 249
+  }, {
+    "width" : 322,
+    "height" : 497
+  }, {
+    "width" : 643,
+    "height" : 993
+  }, {
+    "width" : 1286,
+    "height" : 1985
+  }, {
+    "width" : 2572,
+    "height" : 3970
+  } ],
+  "profile" : "level0",
+  "width" : 2572,
+  "id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S004",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3970
+}
