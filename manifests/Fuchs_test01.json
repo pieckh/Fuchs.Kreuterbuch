@@ -1,0 +1,91 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/Fuchs_test01.json",
+  "@type" : "sc:Manifest",
+  "label" : {
+    "@value" : "Leonhart Fuchs: New Kreüterbuch, Basel: Isengrin 1543  Standort: 19 257 4°",
+    "@language" : "en"
+  },
+  "metadata" : [ {
+    "label" : "author",
+    "value" : "Dorothea Schoch und Pia Eckhart"
+  }, {
+    "label" : "provider",
+    "value" : "cogapp"
+  } ],
+  "manifestid" : "e56e2be0e30f11ec8f9aaf1d4f5243c5",
+  "description" : {
+    "@value" : " ",
+    "@language" : "en"
+  },
+  "viewingHint" : "paged",
+  "viewingDirection" : "left-to-right",
+  "attribution" : " CC-BY-NC-SA",
+  "sequences" : [ {
+    "@type" : "sc:Sequence",
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "canvases" : [ {
+      "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005/canvas/c0",
+      "label" : {
+        "@value" : "Leonhart Fuchs: New Kreüterbuch, Basel: Isengrin 1543  Standort: 19 257 4°\n by Dorothea Schoch und Pia Eckhart\n\n \n\n CC-BY-NC-SA",
+        "@language" : "en"
+      },
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@type" : "sc:Canvas",
+      "width" : 2840,
+      "height" : 4080,
+      "images" : [ {
+        "resource" : {
+          "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "width" : 2840,
+          "height" : 4080,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005"
+          }
+        },
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005/canvas/c0"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/annotation/e56e2be0e30f11ec8f9aaf1d4f5243c5/annotations.json",
+        "@type" : "sc:AnnotationList"
+      } ]
+    }, {
+      "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/canvas/c0",
+      "label" : {
+        "@value" : "S411\nPia Eckhart\n\nPflaumenbaum\n\n",
+        "@language" : "en"
+      },
+      "@context" : "http://iiif.io/api/presentation/2/context.json",
+      "@type" : "sc:Canvas",
+      "width" : 2407,
+      "height" : 3994,
+      "images" : [ {
+        "resource" : {
+          "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "width" : 2407,
+          "height" : 3994,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "profile" : "http://iiif.io/api/image/1/level2.json",
+            "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411"
+          }
+        },
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/canvas/c0"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/annotation/8f3af1b0e32611ecb7526b08b60fd555/annotations.json",
+        "@type" : "sc:AnnotationList"
+      } ]
+    } ]
+  } ]
+}
