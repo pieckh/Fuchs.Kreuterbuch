@@ -13,12 +13,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/Fuchs-manifest.json",
     "label" : "Leonhart Fuchs: New Kreutterbuch"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/Fuchs_test01.json",
-    "label" : {
-      "@value" : "Leonhart Fuchs: New Kreüterbuch, Basel: Isengrin 1543  Standort: 19 257 4°",
-      "@language" : "en"
-    }
   } ]
 }
