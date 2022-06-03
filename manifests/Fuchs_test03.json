@@ -1,6 +1,6 @@
 {
    "@context":"http://iiif.io/api/presentation/2/context.json",
-   "@id":"https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/e56e2be0e30f11ec8f9aaf1d4f5243c5/manifest.json",
+   "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/manifests/Fuchs_test03.json",
    "@type":"sc:Manifest",
    "label":{
       "@value":"Leonhart Fuchs: New Kreüterbuch, Basel: Isengrin 1543  Standort: 19 257 4°",
