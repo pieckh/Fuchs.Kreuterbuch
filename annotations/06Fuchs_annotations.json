@@ -1,0 +1,48 @@
+{
+    "@context":"http://iiif.io/api/presentation/2/context.json",
+    "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/annotations/06Fuchs_annotations.json",
+    "@type":"sc:AnnotationList",
+    "resources":[
+        {
+    "@type":"oa:Annotation",
+    "@id": "c4f9d910e32b11ecb933c5c9256e0ec0",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"In Farbe ...\n\nMan konnte das gedruckte Kreüterbuch aber auch nachträglich von Hand koloriert kaufen. Diese Prachtausgaben hatten einen stattlichen Preis."
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S082/canvas/c0#xywh=-1620.5555555555559,166.53706044163292,5911.111111111111,3694.4444444444443"
+},{
+    "@type":"oa:Annotation",
+    "@id": "f26de530e32b11ecb933c5c9256e0ec0",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Die Kolorierung seines eigenen Exemplars dürfte Leonhart Fuchs in Auftrag gegeben .."
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S082/canvas/c0#xywh=-267.6500446085467,193.5498707844283,3546.666666666667,2216.666666666667"
+},{
+    "@type":"oa:Annotation",
+    "@id": "3419e060e32c11ecb933c5c9256e0ec0",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"und die Durchführung wohl auch selbst beaufsichtigt haben. "
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S082/canvas/c0#xywh=-243.26671127521672,1663.1998707844252,3546.666666666667,2216.666666666667"
+},{
+    "@type":"oa:Annotation",
+    "@id": "0bf3b570e32c11ecb933c5c9256e0ec0",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Das Ulmer Exemplar zeichnet sich also durch eine hohe Qualität aus und spiegelt damit in besonderer Weise die Expertise des Verfassers. "
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S082/canvas/c0#xywh=-1620.5555555555559,203.04248660945265,5911.111111111111,3694.4444444444443"
+}
+    ]
+ }

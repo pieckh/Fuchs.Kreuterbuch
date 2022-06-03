@@ -1,0 +1,28 @@
+{
+    "@context":"http://iiif.io/api/presentation/2/context.json",
+    "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/annotations/04Fuchs_annotations.json",
+    "@type":"sc:AnnotationList",
+    "resources":[
+        {
+    "@type":"oa:Annotation",
+    "@id": "46f5beb0e32811ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Einzigartig...\n\n... ist das hier ausgestellte Exemplar der Stadtbibliothek Ulm, weil es aus der Privatbibliothek von Leonhart Fuchs stammt. Ein handschriftlicher Eintrag im Buchinnendeckel weist darauf hin: "
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S001_BesitzvermerkFuchs/canvas/c0#xywh=-838.6666666666662,-64.71722498630427,2677.333333333334,1673.3333333333335"
+},{
+    "@type":"oa:Annotation",
+    "@id": "5ff7e000e32811ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"\"Ex Bibliotheca Leonharti Fuchsij\" (Aus der Bibliothek des Leonhart Fuchs).\n\nVermutlich kam das Buch durch seinen Sohn Friedrich Fuchs (1532-1604), der in Ulm als Stadtarzt beschäftigt war, in die Ulmer Stadtbibliothek.\n"
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S001_BesitzvermerkFuchs/canvas/c0#xywh=-500.99481792266556,936.6909094574604,1745.454545454545,1090.9090909090905"
+}
+    ]
+ }

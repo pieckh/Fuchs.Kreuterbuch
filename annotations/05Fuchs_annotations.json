@@ -1,0 +1,38 @@
+{
+    "@context":"http://iiif.io/api/presentation/2/context.json",
+    "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/annotations/05Fuchs_annotations.json",
+    "@type":"sc:AnnotationList",
+    "resources":[
+        {
+    "@type":"oa:Annotation",
+    "@id": "46ba9500e32911ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Ohne Farbe...\n\nDas reich illustrierte Kreüterbuch konnte man im 16. Jahrhundert mit den schwarzweiß gedruckten Holzschnitten  erwerben."
+    },
+    "on":"https://api.digitale-sammlungen.de/iiif/image/v2/bsb00017437_00080/canvas/c0#xywh=-2535.8148148148157,170.69712692081873,8829.629629629631,5518.51851851852"
+},{
+    "@type":"oa:Annotation",
+    "@id": "82dae2b0e32911ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Das Beispiel des \"Welsch Bernklaw\" zeigt die extrem feine Linienführung der Holzschnitte."
+    },
+    "on":"https://api.digitale-sammlungen.de/iiif/image/v2/bsb00017437_00080/canvas/c0#xywh=-407.6402156343395,774.2084707295353,4598.765432098766,2874.2283950617293"
+},{
+    "@type":"oa:Annotation",
+    "@id": "91ae5b50e32911ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"https://www.digitale-sammlungen.de/view/bsb00017437?page=80"
+    },
+    "on":"https://api.digitale-sammlungen.de/iiif/image/v2/bsb00017437_00080/canvas/c0#xywh=1260.1092795400261,1209.203133417302,2217.7688233501003,1386.1055145938128"
+}
+    ]
+ }

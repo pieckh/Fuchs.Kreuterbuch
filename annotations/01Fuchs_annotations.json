@@ -1,0 +1,28 @@
+{
+    "@context":"http://iiif.io/api/presentation/2/context.json",
+    "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/annotations/01Fuchs_annotations.json",
+    "@type":"sc:AnnotationList",
+    "resources":[
+        {
+    "@type":"oa:Annotation",
+    "@id": "48e8bc70e32511ecbcf3afdb0b9baf50",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Leonhart Fuchs (1501-1566) übernahm, nach einem Studium in Erfurt und Ingolstadt sowie Tätigkeiten in München, Ansbach und Ingolstadt, am 14. August 1535 den Lehrstuhl für Medizin an der Universität Tübingen. "
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005/canvas/c0#xywh=-1667.9848628193006,-3.1530333899354446e-13,6175.969725638601,4080.000000000001"
+},{
+    "@type":"oa:Annotation",
+    "@id": "7059a120e32511ecbcf3afdb0b9baf50",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"1542 veröffentlichte er eine \"Geschichte der Pflanzen\" in lateinischer Sprache unter dem Titel De Historia stirpium commentarii insignes. \n\nHier ist er im Alter von 42 Jahren dargestellt und hält eine Blume in der Hand."
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005/canvas/c0#xywh=-24.710460666446675,70.61065878919683,3574.056554189005,2361.1111111111118"
+}
+    ]
+ }

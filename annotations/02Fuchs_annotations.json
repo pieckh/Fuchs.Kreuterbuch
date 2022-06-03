@@ -1,0 +1,38 @@
+{  
+    "@context":"http://iiif.io/api/presentation/2/context.json",
+    "@id":"https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/8f3af1b0e32611ecb7526b08b60fd555/annotations.json",
+    "@type":"sc:AnnotationList",
+    "resources":[  
+        {  
+    "@type":"oa:Annotation",
+    "@id": "a813b910e32611ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Schon ein Jahr später 1543 erschien das New Kreüterbuch, eine gründlich überarbeitete deutsche Fassung, mit der Fuchs sich an ein breiteres Publikum wandte."
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/canvas/c0#xywh=-1991.7000000000003,0,6390.400000000001,3994"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "b514e2b0e32611ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Noch heute begeistern die prächtigen Abbildungen von über 500 Pflanzen."
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/canvas/c0#xywh=-456.5708269411858,151.07585498744993,3424.2112482853236,2140.132030178327"
+},{  
+    "@type":"oa:Annotation",
+    "@id": "ce5bd530e32611ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{  
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Die meisten der abgebildeten Arten stammten aus Deutschland und anderen europäischen Ländern, so wie der hier gezeigte Pflaumenbaum."
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S411/canvas/c0#xywh=-467.2714870920773,1798.9775182247588,3424.2112482853236,2140.132030178327"
+}
+    ]
+ }
