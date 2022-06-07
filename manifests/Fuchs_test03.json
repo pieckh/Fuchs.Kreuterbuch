@@ -238,43 +238,7 @@
                      "@type":"sc:AnnotationList"
                   }
                ]
-            },
-            {
-               "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005/canvas/c0",
-               "label":{
-                  "@value":"",
-                  "@language":"en"
-               },
-               "@context":"http://iiif.io/api/presentation/2/context.json",
-               "@type":"sc:Canvas",
-               "width":2840,
-               "height":4080,
-               "images":[
-                  {
-                     "resource":{
-                        "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005/full/full/0/default.jpg",
-                        "@type":"dctypes:Image",
-                        "format":"image/jpeg",
-                        "width":2840,
-                        "height":4080,
-                        "service":{
-                           "@context":"http://iiif.io/api/image/2/context.json",
-                           "profile":"http://iiif.io/api/image/1/level2.json",
-                           "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005"
-                        }
-                     },
-                     "@type":"oa:Annotation",
-                     "motivation":"sc:painting",
-                     "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S005/canvas/c0"
-                  }
-               ],
-               "otherContent":[
-                  {
-                     "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/annotations/07Fuchs_annotations.json",
-                     "@type":"sc:AnnotationList"
-                  }
-               ]
-            }
+            }           
          ]
       }
    ]
